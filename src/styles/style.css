@@ -1,0 +1,35 @@
+.input {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+.button-item {
+  margin-right: 10px;
+}
+
+.loader {
+  margin: 10% auto;
+  width: 50px;
+}
+
+.item {
+  margin-bottom: 40px;
+}
+
+.item img, .item .MuiCircularProgress-root {
+  margin: 10px auto;
+  display: block;
+}
+
+.refill img, .refill .MuiCircularProgress-root {
+  display: block;
+  margin: 0 auto;
+}
+
+.refill button {
+  margin-right: 10px;
+}
